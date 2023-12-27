@@ -229,3 +229,10 @@ input:checked ~ .bubble::after {
 	text-decoration: line-through;
 	color: var(--grey);
 }
+
+.footer{
+	background: #cecece;
+    text-align: center;
+    margin: 10px 0px 0px 0px;
+    padding: 10px 10px 10px 0px;
+}

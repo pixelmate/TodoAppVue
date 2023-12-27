@@ -92,6 +92,11 @@ onMounted(()=>{
     </div>
   </div>
 </section>  
+<section class="footer">
+  <span>
+    Made with Passion by 👨🏻‍💻 <a href="https://github.com/pixelmate/TodoAppVue" target="_blank">Prince</a>
+</span>
+</section>
 </main>
 </template>
 
